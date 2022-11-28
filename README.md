@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Yuqiu (Ian) Yang
-> Welcome! (欢迎, 歡迎, 어서 오세요) 👋:bowtie:
+> Welcome! (欢迎HuanYing, 歡迎ㄏㄨㄢˉㄧㄥˊ, 어서 오세요) 👋:bowtie:
 > 
 > I'm currently a Biostatistics Ph.D. candidate at SMU and UTSW 😄
 
