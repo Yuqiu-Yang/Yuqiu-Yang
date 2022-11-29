@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 > Welcome! (欢迎HuanYing, 歡迎ㄏㄨㄢˉㄧㄥˊ, 어서 오세요) 👋:bowtie:
 > 
 > I'm currently a Biostatistics Ph.D. candidate at SMU and UTSW 😄
+<a href="https://www.instagram.com/ianyang930917/">
+  <img align="left" alt="Ian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/ianyangyuqiu">
+  <img align="left" alt="Ian Yang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yuqiuyang/">
+  <img align="left" alt="Ian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Yuqiu-Yang)
 
 <img src=https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/eigen.png height="250" />
 
