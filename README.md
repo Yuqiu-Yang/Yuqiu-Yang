@@ -18,17 +18,42 @@ Here are some ideas to get you started:
 > 
 > I'm currently a Biostatistics Ph.D. candidate at SMU and UTSW 😄
 
-<img src=https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/eigen.png height="200" />
+<img src=https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/eigen.png height="250" />
 
 ## What I like:
-- 📊Statistics 🔢Math 🧠Bioinformatics
+- 📊Statistics 🔢Math 🧠Bioinformatics 🎲Puzzles
 - 🎵Flute 📖New languages 🙏Meditation
 
 ## Current projects
 ### [Cytomulate](https://github.com/kevin931/Cytomulate)
-- CyTOF data simuluation
-- Collaboration with Kevin Wang
+- Efficient CyTOF data simuluation
+- Fully integrated with the unifying framework [PyCytoData](https://github.com/kevin931/PyCytoData)
+- Collaboration work with [Kevin Wang](https://github.com/kevin931)
+
+### [MetaNorm](https://github.com/Yuqiu-Yang/MetaPositive)
+- Bayesian meta-analysis on NanoString nCounter
+- The package is written in RCpp
+- Collaboration work with Jackson Barth
+
+### [RCRnorm]
+- RCpp version of the original algorithm 
+- [Original Github repo](https://github.com/cran/RCRnorm)
 
 ## Other projects
+### [Problem solving with algorithms and data structures using python](https://github.com/Yuqiu-Yang/problem_solving_with_algorithms_and_data_structures_using_python)
+- Code and my version of solutions to almost all the excercises of the [book](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 
+### [Sudoku Solver](https://github.com/Yuqiu-Yang/Sudoku-Solver)
+- Three algorithms to solve Sudoku puzzles
+- CNN is used to extract a Sudoku puzzle from an image
+- We also provide a simple UI to upload and solve your Sudoku puzzles
+
+### [Fare Split](https://github.com/Yuqiu-Yang/FareSplit)
+- A linear programming formulation of the fare splitting problem
+- Guaranteed to minimize the total transaction amount in the system
+- UI is pending (not anytime soon though...)
+
+
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuqiu-Yang&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuqiu-Yang)](https://github.com/Yuqiu-Yang/github-readme-stats)
+
