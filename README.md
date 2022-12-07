@@ -41,6 +41,13 @@ Here are some ideas to get you started:
 - Fully integrated with the unifying framework [PyCytoData](https://github.com/kevin931/PyCytoData)
 - Collaboration work with [Kevin Wang](https://github.com/kevin931)
 
+### [A Template for Python Package](https://github.com/Yuqiu-Yang/PythonPackageTemplate)
+- An ongoing project where I explore the world of Python packaging
+- Hopefully, eventually, it will become an automatic Python package generate
+- It will cover online documentation, unit test, code coverage, GitHub workflow, dependencies, packaging, etc.
+- I will also provide a detailed description on how I created the project step by step from scratch. This would serve as my knowledge base on this issue. 
+
+## Other projects
 ### [MetaNorm](https://github.com/Yuqiu-Yang/MetaPositive)
 - Bayesian meta-analysis on NanoString nCounter
 - The package is written in RCpp
@@ -50,7 +57,7 @@ Here are some ideas to get you started:
 - RCpp version of the original algorithm 
 - [Original Github repo](https://github.com/cran/RCRnorm)
 
-## Other projects
+## Hobby projects
 ### [Problem solving with algorithms and data structures using python](https://github.com/Yuqiu-Yang/problem_solving_with_algorithms_and_data_structures_using_python)
 - Code and my version of solutions to almost all the excercises of the [book](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 
