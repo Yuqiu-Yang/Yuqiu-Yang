@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - The package is written in RCpp
 - Collaboration work with Jackson Barth
 
-### [RCRnorm]
+### [RCRnormCpp](https://github.com/Yuqiu-Yang/RCRnormCpp)
 - RCpp version of the original algorithm 
 - [Original Github repo](https://github.com/cran/RCRnorm)
 
