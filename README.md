@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🎵Flute 📖New languages 🙏Meditation
 
 ## Current projects
-### [pMTnet Omni](https://github.com/Yuqiu-Yang/pMTnet_Omni)
+### [pMTnet Omni](https://github.com/Yuqiu-Yang/pMTnet_Omni_Document)
 - A deep learning algorithm for TCR-pMHC binding prediction
 
 ### [Cytomulate](https://github.com/kevin931/Cytomulate)
