@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Fully integrated with the unifying framework [PyCytoData](https://github.com/kevin931/PyCytoData)
 - Collaboration work with [Kevin Wang](https://github.com/kevin931)
 
-### [A Template for Python Package](https://github.com/Yuqiu-Yang/PythonPackageTemplate)
+### [A Journal for Python Packaging](https://github.com/Yuqiu-Yang/Python_Packaging_Journal)
 - An ongoing project where I explore the world of Python packaging
 - Hopefully, eventually, it will become an automatic Python package generate
 - It will cover online documentation, unit test, code coverage, GitHub workflow, dependencies, packaging, etc.
