@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 - CNN is used to extract a Sudoku puzzle from an image
 - We also provide a simple UI to upload and solve your Sudoku puzzles
 
-### [Fare Split](https://github.com/Yuqiu-Yang/FareSplit)
+### [Fare Split](https://github.com/Yuqiu-Yang/fare_split)
 - A linear programming formulation of the fare splitting problem
 - Guaranteed to minimize the total transaction amount in the system
 - UI is pending (not anytime soon though...)
