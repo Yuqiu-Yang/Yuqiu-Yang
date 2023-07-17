@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > 
 > I'm currently a Biostatistics Ph.D. candidate at SMU and UTSW 😄
 <a href="https://www.instagram.com/ianyang930917/">
-  <img align="left" alt="Ian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Ian's Instagram" width="22px" src="https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/instagram.svg" />
 </a>
 <a href="https://twitter.com/ianyangyuqiu">
   <img align="left" alt="Ian Yang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
