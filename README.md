@@ -21,14 +21,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Ian's Instagram" width="22px" src="https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/instagram.svg" />
 </a>
 <a href="https://twitter.com/ianyangyuqiu">
-  <img align="left" alt="Ian Yang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ian Yang | Twitter" width="22px" src="https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yuqiuyang/">
-  <img align="left" alt="Ian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ian's LinkedIN" width="22px" src="https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Yuqiu-Yang)
-
+<br>
 <img src=https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/eigen.png height="250" />
 
 ## What I like:
