@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/yuqiuyang/">
   <img align="left" alt="Ian's LinkedIN" width="22px" src="https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/linkedin.svg" />
 </a>
+
 <br>
+
 <img src=https://github.com/Yuqiu-Yang/Yuqiu-Yang/blob/main/eigen.png height="250" />
 
 ## What I like:
